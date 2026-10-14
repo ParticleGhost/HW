@@ -1,0 +1,656 @@
+[
+  {
+      "name": "Иван",
+      "lastname": "Петров",
+      "books": [
+        {
+          "name": "Война и мир",
+          "author": "Лев Толстой",
+          "datePublished": 1869,
+          "pageCount": 1225
+        },
+        {
+          "name": "Преступление и наказание",
+          "author": "Фёдор Достоевский",
+          "datePublished": 1866,
+          "pageCount": 671
+        },
+        {
+          "name": "Мастер и Маргарита",
+          "author": "Михаил Булгаков",
+          "datePublished": 1967,
+          "pageCount": 480
+        },
+        {
+          "name": "1984",
+          "author": "Джордж Оруэлл",
+          "datePublished": 1949,
+          "pageCount": 328
+        },
+        {
+          "name": "Чистый код",
+          "author": "Роберт Мартин",
+          "datePublished": 2008,
+          "pageCount": 464
+        }
+      ]
+    },
+    {
+      "name": "Мария",
+      "lastname": "Сидорова",
+      "books": [
+        {
+          "name": "Анна Каренина",
+          "author": "Лев Толстой",
+          "datePublished": 1877,
+          "pageCount": 864
+        },
+        {
+          "name": "Гарри Поттер и философский камень",
+          "author": "Джоан Роулинг",
+          "datePublished": 1997,
+          "pageCount": 332
+        },
+        {
+          "name": "Властелин колец",
+          "author": "Джон Толкин",
+          "datePublished": 1954,
+          "pageCount": 1178
+        },
+        {
+          "name": "1984",
+          "author": "Джордж Оруэлл",
+          "datePublished": 1949,
+          "pageCount": 328
+        },
+        {
+          "name": "Дюна",
+          "author": "Фрэнк Герберт",
+          "datePublished": 1965,
+          "pageCount": 688
+        },
+        {
+          "name": "Убить пересмешника",
+          "author": "Харпер Ли",
+          "datePublished": 1960,
+          "pageCount": 384
+        },
+        {
+          "name": "Мы",
+          "author": "Евгений Замятин",
+          "datePublished": 1920,
+          "pageCount": 224
+        }
+      ]
+    },
+    {
+      "name": "Алексей",
+      "lastname": "Кузнецов",
+      "books": [
+        {
+          "name": "Солярис",
+          "author": "Станислав Лем",
+          "datePublished": 1961,
+          "pageCount": 288
+        },
+        {
+          "name": "Пикник на обочине",
+          "author": "Аркадий и Борис Стругацкие",
+          "datePublished": 1972,
+          "pageCount": 256
+        },
+        {
+          "name": "Три товарища",
+          "author": "Эрих Мария Ремарк",
+          "datePublished": 1936,
+          "pageCount": 384
+        },
+        {
+          "name": "Портрет Дориана Грея",
+          "author": "Оскар Уайльд",
+          "datePublished": 1890,
+          "pageCount": 320
+        },
+        {
+          "name": "Чистый код",
+          "author": "Роберт Мартин",
+          "datePublished": 2008,
+          "pageCount": 464
+        }
+      ]
+    },
+    {
+      "name": "Елена",
+      "lastname": "Морозова",
+      "books": [
+        {
+          "name": "Гордость и предубеждение",
+          "author": "Джейн Остин",
+          "datePublished": 1813,
+          "pageCount": 432
+        },
+        {
+          "name": "Джейн Эйр",
+          "author": "Шарлотта Бронте",
+          "datePublished": 1847,
+          "pageCount": 512
+        },
+        {
+          "name": "Грозовой перевал",
+          "author": "Эмили Бронте",
+          "datePublished": 1847,
+          "pageCount": 416
+        },
+        {
+          "name": "Ребекка",
+          "author": "Дафна Дюморье",
+          "datePublished": 1938,
+          "pageCount": 448
+        },
+        {
+          "name": "Мастер и Маргарита",
+          "author": "Михаил Булгаков",
+          "datePublished": 1967,
+          "pageCount": 480
+        },
+        {
+          "name": "Тень ветра",
+          "author": "Карлос Руис Сафон",
+          "datePublished": 2001,
+          "pageCount": 576
+        }
+      ]
+    },
+    {
+      "name": "Дмитрий",
+      "lastname": "Волков",
+      "books": [
+        {
+          "name": "Основание",
+          "author": "Айзек Азимов",
+          "datePublished": 1951,
+          "pageCount": 320
+        },
+        {
+          "name": "Конец вечности",
+          "author": "Айзек Азимов",
+          "datePublished": 1955,
+          "pageCount": 256
+        },
+        {
+          "name": "Я, робот",
+          "author": "Айзек Азимов",
+          "datePublished": 1950,
+          "pageCount": 288
+        },
+        {
+          "name": "Дюна",
+          "author": "Фрэнк Герберт",
+          "datePublished": 1965,
+          "pageCount": 688
+        },
+        {
+          "name": "Марсианин",
+          "author": "Энди Вейер",
+          "datePublished": 2011,
+          "pageCount": 384
+        },
+        {
+          "name": "Задача трёх тел",
+          "author": "Лю Цысинь",
+          "datePublished": 2008,
+          "pageCount": 400
+        },
+        {
+          "name": "Нейромант",
+          "author": "Уильям Гибсон",
+          "datePublished": 1984,
+          "pageCount": 384
+        },
+        {
+          "name": "Снежная катастрофа",
+          "author": "Нил Стивенсон",
+          "datePublished": 1992,
+          "pageCount": 448
+        }
+      ]
+    },
+    {
+      "name": "Ольга",
+      "lastname": "Новикова",
+      "books": [
+        {
+          "name": "Три товарища",
+          "author": "Эрих Мария Ремарк",
+          "datePublished": 1936,
+          "pageCount": 384
+        },
+        {
+          "name": "На западном фронте без перемен",
+          "author": "Эрих Мария Ремарк",
+          "datePublished": 1929,
+          "pageCount": 288
+        },
+        {
+          "name": "Жизнь взаймы",
+          "author": "Эрих Мария Ремарк",
+          "datePublished": 1959,
+          "pageCount": 320
+        },
+        {
+          "name": "Прощай, оружие!",
+          "author": "Эрнест Хемингуэй",
+          "datePublished": 1929,
+          "pageCount": 352
+        },
+        {
+          "name": "Старик и море",
+          "author": "Эрнест Хемингуэй",
+          "datePublished": 1952,
+          "pageCount": 128
+        },
+        {
+          "name": "По ком звонит колокол",
+          "author": "Эрнест Хемингуэй",
+          "datePublished": 1940,
+          "pageCount": 480
+        },
+        {
+          "name": "Великий Гэтсби",
+          "author": "Фрэнсис Скотт Фицджеральд",
+          "datePublished": 1925,
+          "pageCount": 256
+        },
+        {
+          "name": "Ночь нежна",
+          "author": "Фрэнсис Скотт Фицджеральд",
+          "datePublished": 1934,
+          "pageCount": 384
+        },
+        {
+          "name": "Убить пересмешника",
+          "author": "Харпер Ли",
+          "datePublished": 1960,
+          "pageCount": 384
+        }
+      ]
+    },
+    {
+      "name": "Сергей",
+      "lastname": "Соколов",
+      "books": [
+        {
+          "name": "Чистый код",
+          "author": "Роберт Мартин",
+          "datePublished": 2008,
+          "pageCount": 464
+        },
+        {
+          "name": "Грокаем алгоритмы",
+          "author": "Адитья Бхаргава",
+          "datePublished": 2016,
+          "pageCount": 288
+        },
+        {
+          "name": "Паттерны проектирования",
+          "author": "Эрих Гамма",
+          "datePublished": 1994,
+          "pageCount": 368
+        },
+        {
+          "name": "Рефакторинг",
+          "author": "Мартин Фаулер",
+          "datePublished": 1999,
+          "pageCount": 448
+        },
+        {
+          "name": "Совершенный код",
+          "author": "Стив Макконнелл",
+          "datePublished": 2004,
+          "pageCount": 896
+        },
+        {
+          "name": "Алгоритмы. Построение и анализ",
+          "author": "Томас Кормен",
+          "datePublished": 1990,
+          "pageCount": 1296
+        },
+        {
+          "name": "Программист-прагматик",
+          "author": "Эндрю Хант",
+          "datePublished": 1999,
+          "pageCount": 352
+        },
+        {
+          "name": "Введение в алгоритмы",
+          "author": "Томас Кормен",
+          "datePublished": 2009,
+          "pageCount": 1296
+        },
+        {
+          "name": "Искусство программирования",
+          "author": "Дональд Кнут",
+          "datePublished": 1968,
+          "pageCount": 650
+        },
+        {
+          "name": "Компиляторы",
+          "author": "Альфред Ахо",
+          "datePublished": 1986,
+          "pageCount": 768
+        }
+      ]
+    },
+    {
+      "name": "Анна",
+      "lastname": "Попова",
+      "books": [
+        {
+          "name": "Гарри Поттер и философский камень",
+          "author": "Джоан Роулинг",
+          "datePublished": 1997,
+          "pageCount": 332
+        },
+        {
+          "name": "Гарри Поттер и Тайная комната",
+          "author": "Джоан Роулинг",
+          "datePublished": 1998,
+          "pageCount": 352
+        },
+        {
+          "name": "Гарри Поттер и узник Азкабана",
+          "author": "Джоан Роулинг",
+          "datePublished": 1999,
+          "pageCount": 448
+        },
+        {
+          "name": "Гарри Поттер и Кубок огня",
+          "author": "Джоан Роулинг",
+          "datePublished": 2000,
+          "pageCount": 636
+        },
+        {
+          "name": "Гарри Поттер и Орден Феникса",
+          "author": "Джоан Роулинг",
+          "datePublished": 2003,
+          "pageCount": 896
+        },
+        {
+          "name": "Хоббит",
+          "author": "Джон Толкин",
+          "datePublished": 1937,
+          "pageCount": 310
+        }
+      ]
+    },
+    {
+      "name": "Павел",
+      "lastname": "Лебедев",
+      "books": [
+        {
+          "name": "Властелин колец",
+          "author": "Джон Толкин",
+          "datePublished": 1954,
+          "pageCount": 1178
+        },
+        {
+          "name": "Сильмариллион",
+          "author": "Джон Толкин",
+          "datePublished": 1977,
+          "pageCount": 416
+        },
+        {
+          "name": "Дети Хурина",
+          "author": "Джон Толкин",
+          "datePublished": 2007,
+          "pageCount": 320
+        },
+        {
+          "name": "Игра престолов",
+          "author": "Джордж Мартин",
+          "datePublished": 1996,
+          "pageCount": 800
+        },
+        {
+          "name": "Битва королей",
+          "author": "Джордж Мартин",
+          "datePublished": 1998,
+          "pageCount": 768
+        },
+        {
+          "name": "Буря мечей",
+          "author": "Джордж Мартин",
+          "datePublished": 2000,
+          "pageCount": 992
+        },
+        {
+          "name": "Пир стервятников",
+          "author": "Джордж Мартин",
+          "datePublished": 2005,
+          "pageCount": 784
+        },
+        {
+          "name": "Танец с драконами",
+          "author": "Джордж Мартин",
+          "datePublished": 2011,
+          "pageCount": 1040
+        },
+        {
+          "name": "Ведьмак. Последнее желание",
+          "author": "Анджей Сапковский",
+          "datePublished": 1993,
+          "pageCount": 288
+        },
+        {
+          "name": "Ведьмак. Меч Предназначения",
+          "author": "Анджей Сапковский",
+          "datePublished": 1992,
+          "pageCount": 384
+        },
+        {
+          "name": "Ведьмак. Кровь эльфов",
+          "author": "Анджей Сапковский",
+          "datePublished": 1994,
+          "pageCount": 320
+        }
+      ]
+    },
+    {
+      "name": "Татьяна",
+      "lastname": "Козлова",
+      "books": [
+        {
+          "name": "Мастер и Маргарита",
+          "author": "Михаил Булгаков",
+          "datePublished": 1967,
+          "pageCount": 480
+        },
+        {
+          "name": "Собачье сердце",
+          "author": "Михаил Булгаков",
+          "datePublished": 1925,
+          "pageCount": 128
+        },
+        {
+          "name": "Белая гвардия",
+          "author": "Михаил Булгаков",
+          "datePublished": 1925,
+          "pageCount": 352
+        },
+        {
+          "name": "Мёртвые души",
+          "author": "Николай Гоголь",
+          "datePublished": 1842,
+          "pageCount": 352
+        },
+        {
+          "name": "Ревизор",
+          "author": "Николай Гоголь",
+          "datePublished": 1836,
+          "pageCount": 160
+        },
+        {
+          "name": "Отцы и дети",
+          "author": "Иван Тургенев",
+          "datePublished": 1862,
+          "pageCount": 288
+        },
+        {
+          "name": "Герой нашего времени",
+          "author": "Михаил Лермонтов",
+          "datePublished": 1840,
+          "pageCount": 224
+        }
+      ]
+    },
+    {
+      "name": "Николай",
+      "lastname": "Смирнов",
+      "books": [
+        {
+          "name": "1984",
+          "author": "Джордж Оруэлл",
+          "datePublished": 1949,
+          "pageCount": 328
+        },
+        {
+          "name": "Скотный двор",
+          "author": "Джордж Оруэлл",
+          "datePublished": 1945,
+          "pageCount": 128
+        },
+        {
+          "name": "Дюна",
+          "author": "Фрэнк Герберт",
+          "datePublished": 1965,
+          "pageCount": 688
+        },
+        {
+          "name": "Мессия Дюны",
+          "author": "Фрэнк Герберт",
+          "datePublished": 1969,
+          "pageCount": 336
+        },
+        {
+          "name": "Дети Дюны",
+          "author": "Фрэнк Герберт",
+          "datePublished": 1976,
+          "pageCount": 444
+        },
+        {
+          "name": "Бог-Император Дюны",
+          "author": "Фрэнк Герберт",
+          "datePublished": 1981,
+          "pageCount": 496
+        }
+      ]
+    },
+    {
+      "name": "Екатерина",
+      "lastname": "Фёдорова",
+      "books": [
+        {
+          "name": "Убить пересмешника",
+          "author": "Харпер Ли",
+          "datePublished": 1960,
+          "pageCount": 384
+        },
+        {
+          "name": "Великий Гэтсби",
+          "author": "Фрэнсис Скотт Фицджеральд",
+          "datePublished": 1925,
+          "pageCount": 256
+        },
+        {
+          "name": "Цветы для Элджернона",
+          "author": "Дэниел Киз",
+          "datePublished": 1966,
+          "pageCount": 320
+        },
+        {
+          "name": "Пятьдесят оттенков серого",
+          "author": "Эрика Джеймс",
+          "datePublished": 2011,
+          "pageCount": 512
+        },
+        {
+          "name": "Девушка с татуировкой дракона",
+          "author": "Стиг Ларссон",
+          "datePublished": 2005,
+          "pageCount": 624
+        },
+        {
+          "name": "Исчезнувшая",
+          "author": "Гиллиан Флинн",
+          "datePublished": 2012,
+          "pageCount": 512
+        },
+        {
+          "name": "Оно",
+          "author": "Стивен Кинг",
+          "datePublished": 1986,
+          "pageCount": 1138
+        },
+        {
+          "name": "Сияние",
+          "author": "Стивен Кинг",
+          "datePublished": 1977,
+          "pageCount": 512
+        },
+        {
+          "name": "Зелёная миля",
+          "author": "Стивен Кинг",
+          "datePublished": 1996,
+          "pageCount": 384
+        },
+        {
+          "name": "Побег из Шоушенка",
+          "author": "Стивен Кинг",
+          "datePublished": 1982,
+          "pageCount": 128
+        },
+        {
+          "name": "Мизери",
+          "author": "Стивен Кинг",
+          "datePublished": 1987,
+          "pageCount": 384
+        }
+      ]
+    },
+    {
+      "name": "Артём",
+      "lastname": "Егоров",
+      "books": [
+        {
+          "name": "Гарри Поттер и философский камень",
+          "author": "Джоан Роулинг",
+          "datePublished": 1997,
+          "pageCount": 332
+        },
+        {
+          "name": "Властелин колец",
+          "author": "Джон Толкин",
+          "datePublished": 1954,
+          "pageCount": 1178
+        },
+        {
+          "name": "1984",
+          "author": "Джордж Оруэлл",
+          "datePublished": 1949,
+          "pageCount": 328
+        },
+        {
+          "name": "Мастер и Маргарита",
+          "author": "Михаил Булгаков",
+          "datePublished": 1967,
+          "pageCount": 480
+        },
+        {
+          "name": "Чистый код",
+          "author": "Роберт Мартин",
+          "datePublished": 2008,
+          "pageCount": 464
+        }
+      ]
+    }
+  ]
