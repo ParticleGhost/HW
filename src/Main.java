@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import hometask1.Task1;
 import hometask2.Task2;
+import hometask3.Task3;
 
 public class Main {
 
@@ -22,8 +23,13 @@ public class Main {
                     Task2.run();
                 }
 
+                // ДЗ к модулю 3
+                else if (moduleNumber == 3) {
+                    Task3.run();
+                }
+
                 // Обработка неверного номера модуля
-                else if ((moduleNumber >= 3 && moduleNumber <= 4)) {
+                else if (moduleNumber == 4) {
                     System.out.println("Hometask for this module does not yet exist.");
                 }
 
