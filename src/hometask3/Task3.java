@@ -1,8 +1,6 @@
 package hometask3;
 
-import hometask3.Adapter.Adapter;
-import hometask3.Adapter.AdoptedInterface;
-import hometask3.Adapter.TargetInterface;
+import hometask3.Adapter.*;
 import hometask3.Builder.*;
 import hometask3.Chain.*;
 import hometask3.Proxy.*;
