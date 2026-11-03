@@ -2,6 +2,7 @@ import java.util.Scanner;
 import hometask1.Task1;
 import hometask2.Task2;
 import hometask3.Task3;
+import hometask4.Task4;
 
 public class Main {
 
@@ -12,6 +13,7 @@ public class Main {
             System.out.println("\nChoose module (1-4, 'q' for exit): ");
             if (input.hasNextInt()) {
                 int moduleNumber = input.nextInt();
+                input.nextLine();
 
                 // ДЗ к модулю 1
                 if (moduleNumber == 1) {
@@ -28,11 +30,11 @@ public class Main {
                     Task3.run();
                 }
 
-                // Обработка неверного номера модуля
                 else if (moduleNumber == 4) {
-                    System.out.println("Hometask for this module does not yet exist.");
+                    Task4.run(input);
                 }
 
+                // Обработка неверного номера модуля
                 else {
                     System.out.println("Invalid value.");
                 }
@@ -45,5 +47,6 @@ public class Main {
             }
         } while (continueOperating);
         input.close();
+        System.exit(1);
     }
 }
